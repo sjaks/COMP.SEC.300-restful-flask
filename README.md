@@ -1,5 +1,5 @@
-# sepro-restful-flask
-Project for the course Secure Programming
+# COMP.SEC.300-restful-flask
+Project for the course COMP.SEC.300 Secure Programming
 
 ## Project description
 This project consists of a simple Docker composition. The main part of the program is `flask-app` that is **a simple Flask-based Python application** that serves a simple **RESTful web API**. The other part of the program is a **PostgreSQL database** that is accessed with **Python SQLAlchemy**.
