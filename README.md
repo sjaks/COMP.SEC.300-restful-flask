@@ -68,8 +68,8 @@ access the REST API. For example if there was a React frontend running on port 8
 Make sure the latest version of the program has been cloned.
 Then run docker-compose inside of the project root.
 ```
-git clone https://github.com/sjaks/sepro-restful-flask.git
-cd sepro-restful-flask
+git clone https://github.com/sjaks/COMP.SEC.300-restful-flask.git
+cd COMP.SEC.300-restful-flask
 docker-compose up
 ```
 To rebuild the docker images with docker-compose,
